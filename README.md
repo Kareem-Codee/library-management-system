@@ -31,4 +31,6 @@ Built with Java, JDBC and MySQL.
 4. Run `Main.java`.
 
 ## Screenshots
-(add screenshots here)
+![Main menu](screenshots/menu.png)
+![Borrow a book](screenshots/borrow.png)
+![Overdue loans](screenshots/overdue.png)
