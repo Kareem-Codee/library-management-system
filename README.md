@@ -33,4 +33,4 @@ Built with Java, JDBC and MySQL.
 ## Screenshots
 ![Main menu](screenshots/menu.png)
 ![Borrow a book](screenshots/borrow.png)
-![Overdue loans](screenshots/1(3).png)
+![Overdue loans](screenshots/1 (3).png)
